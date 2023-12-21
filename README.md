@@ -14,3 +14,5 @@ addressing issues related to biases, fairness, and
 transparency. Ethical guidelines and best practices
 are integrated into the development process to ensure
 responsible deployment of the detection system.
+Data Link True News: https://drive.google.com/file/d/1A23jeENyDIocIuUuQ9ZI_nAj1WTR4fss/view?usp=sharing
+Data Link Fake News: https://drive.google.com/file/d/1kiSVz8GEScgsLxcR5mpcGGKhLxtjXyVi/view?usp=sharing
